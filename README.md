@@ -17,3 +17,9 @@ Utilizamos un servidor llamado USB web server®, el cual nos permite llevar un c
 4. En la carpeta root se encuentran todos los archivos html, css y php.
 ![image](https://user-images.githubusercontent.com/111929587/205759029-fa819f59-e587-4429-a315-8248d8faaa38.png)
 ![image](https://user-images.githubusercontent.com/111929587/205758846-3fb58f4d-b4b8-440c-94c3-5fe4dd6ce7de.png)
+
+# PAGES
+
+https://marianavelazquez.github.io/ProyectoFinal_/root/ 
+
+Nota: Descargar el .rar de preferencia porque no encontramos servidor online y la pages solo muestra la pantalla de inicio.
